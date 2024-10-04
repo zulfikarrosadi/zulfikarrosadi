@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]!
+# Hi there 👋, I'm Zulfikar Rosadi!
 
 ## 👨‍💻 About Me
 I'm a backend developer with a passion for building scalable and efficient systems. My primary stack includes:
