@@ -5,7 +5,7 @@ I'm a backend developer with a passion for building scalable and efficient syste
 
 - **Languages**: TypeScript, Golang (currently learning)
 - **Databases**: PostgreSQL, MySQL
-- **Tools**: Grafana, Promptail (for log monitoring and observability), Jest (for testing)
+- **Tools**: Grafana, Promptail (for log monitoring and observability), Jest (for testing), Docker, GitHub Action (CI/CD)
 
 ## 🔭 Current Position
 - **Fullstack Web Developer Intern** at PTIPD UIN Raden Intan Lampung
