@@ -20,9 +20,7 @@ I'm a backend developer with a passion for building scalable and efficient syste
 - **Frontend**: React (for Fullstack projects)
 - **Monitoring/Logging**: Grafana, Promptail
 
-## 🌱 Fun Fact
-I'm always on the lookout for new technologies that make systems more robust and maintainable.
-
 ## 📫 How to Reach Me
 - LinkedIn: [Zulfikar Rosadi](https://www.linkedin.com/in/zulfikarrosadi)
+- Medium: [Zulfikar Rosadi](https://medium.com/@zulfikarrosadi)
 - Discord: wibusoft_tzy#0867
